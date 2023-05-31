@@ -12,3 +12,6 @@ Il grafico riguardante i giocatori fa vedere che su n partite date, il giocatore
 Il grafico riguardante i turni fa vedere che su n partite date, sono state vinte a% partite dal giocatore che ha iniziato al turno x.
 
 Così com'è fatto, si dimostra che su n esperimenti la percentuale di vittoria del giocatore x' e di partite vinte al turno x'', con x'=x'', è complementare
+
+!!!Codice non ottimizzato. E' stato creato e usato per sostenere l'esame!!!
+!!!di Calcolo della Probabilità e Statistica Matematica!!!
